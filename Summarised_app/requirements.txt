@@ -1,0 +1,3 @@
+ansible_vault==2.1.0
+requests==2.24.0
+streamlit==1.12.2
