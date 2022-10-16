@@ -6,9 +6,13 @@ This is the small attempt on using Streamlit and One-AI API to make the summaris
 ## Dependencies 
 
 1. Please create account on ONE-AI API and obtain the secret key for the API at :  https://studio.oneai.com/ 
-2. Install the following dependencies for the project to run smoothly or use requirements.txt 
-     1.  `pip3 install streamlit`
-     2.   `pip3 install ansible-vault` : optional if you want to use vault to save the key and password
+2. Install the following dependencies for the project to run smoothly 
+   1. Manual Installation
+        1.  `pip3 install streamlit`
+        2.   `pip3 install ansible-vault` : optional if you want to use vault to save the key and password
+   2. Using Requirements txt 
+      `pip3 install -r requirements.txt`
+    
 
 
 ## How to run 
