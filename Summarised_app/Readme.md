@@ -41,6 +41,10 @@ App can be run using ansible-vault secrets (recommended) or hard coding the secr
 4. Click on "Summarise" and wait for the response 
 
 
+### Screenshots 
+
+![alt text](https://github.com/ChampionTej05/Summarised_App/blob/main/Summarised_app/App_Screenshot.png?raw=true)
+
 
 ## Credits
 
